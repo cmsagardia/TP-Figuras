@@ -10,11 +10,9 @@ Circulo ReadCirculo(){
 }	
 
 double GetCircunferencia(Circulo unCirculo){
-	double circunferencia = std::abs(unCirculo.r) * 2 * 3.14159 ;
-	return circunferencia;
+	return std::abs(unCirculo.r) * 2 * 3.14159;
 }
 
 double GetAreaCirculo(Circulo unCirculo){
-	double areaCirculo = 3.14159*unCirculo.r*unCirculo.r;
-	return areaCirculo;
+	return 3.14159*unCirculo.r*unCirculo.r;
 }
