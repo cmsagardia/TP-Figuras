@@ -1,10 +1,10 @@
-/* 	Trabajo Práctico Figuras.
+/* 	Trabajo PrÃ¡ctico Figuras.
 	Fecha de entrega: 4 de Agosto 2016.
 	Grupo 3:
-	Matías,
+	MatÃ­as Sagardia,
 	Edgar Kiechle,
-	Martín Di Paolo,
-	Nicolás D'Andrea.
+	MartÃ­n Di Paolo,
+	NicolÃ¡s D'Andrea.
 */
 
 
